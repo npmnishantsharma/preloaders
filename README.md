@@ -1,7 +1,5 @@
 By Using Cdn:
-  Add Folowing Line:
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Apsanishant/preloaders/style.css">
-  <script src="https://cdn.jsdelivr.net/gh/Apsanishant/preloaders/script.js"></script>
-
+  "See Cdn.txt to add cdn
+  link:  https://cdn.jsdelivr.net/gh/Apsanishant/preloaders/cdn.txt
 .preloaders is used to add preloaders. And .Main Is used to make the body, but with preloaders.
 Also Add id to .preloaders and .main
