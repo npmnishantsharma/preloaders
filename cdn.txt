@@ -1,0 +1,5 @@
+Css:
+https://cdn.jsdelivr.net/gh/Apsanishant/preloaders/style.css
+
+Js:
+https://cdn.jsdelivr.net/gh/Apsanishant/preloaders/script.js
